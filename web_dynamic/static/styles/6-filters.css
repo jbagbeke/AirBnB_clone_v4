@@ -74,6 +74,10 @@ button:hover {
     margin-top: 0%;
 }
 
+.amenity_checkbox {
+	margin-right: 10px;
+}
+
 .amenities .popover ul{
     margin: 0px;
 }
